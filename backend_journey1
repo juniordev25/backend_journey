@@ -1,0 +1,9 @@
+backend_journey/
+  README.md
+  package.json
+  .gitignore
+  /projects
+    /01-rest-api-basics
+    /02-async-promises
+    /03-algorithms
+  /notes
