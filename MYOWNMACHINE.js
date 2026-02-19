@@ -76,4 +76,6 @@ document.getElementById("predictBtn").addEventListener("click", () =>{
     document.getElementById("predictionDisplay").innerText = "Predicted Score: " + result.toFixed(2);
     
 });
+
 updateDisplays();
+/// pair it with index2.html
